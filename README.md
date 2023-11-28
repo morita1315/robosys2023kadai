@@ -1,6 +1,7 @@
 # robosys2023kadai
 ロボットシステムの課題で使用する
-[![test](https://github.com/morita1315/robosyskadai/actions/workflows/test.yml/badge.svg)](https://github.com/morita1315/robosyskadai/actions/workflows/test.yml)
+
+[![test](https://github.com/morita1315/robosys2023kadai/actions/workflows/test.yml/badge.svg)](https://github.com/morita1315/robosys2023kadai/actions/workflows/test.yml)
 ↑　テスト結果を反映したバッジの画像が埋め込まれる
 
 標準入力から読み込んだ数字を足す。

@@ -1,7 +1,7 @@
 # robosys2023kadai
 ロボットシステムの課題で使用する
 
-##plusコマンド
+## plusコマンド
 
 [![test](https://github.com/morita1315/robosys2023kadai/actions/workflows/test.yml/badge.svg)](https://github.com/morita1315/robosys2023kadai/actions/workflows/test.yml)
 

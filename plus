@@ -7,8 +7,12 @@ import sys
 def tonum(s):
     try:
         return int(s)
-    except:
-	    return float(s)
+    except ValueError:
+        try:
+            return float(s)
+        except ValueError:
+            print("Invalid input: not a number", file=sys.stderr)
+            sys.exit(1)
 
 ans = 0
 for line in sys.stdin:

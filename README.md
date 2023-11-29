@@ -38,6 +38,6 @@ Invalid input: not a number
 ## 著作権、ライセンス  
 * このソフトウェアパッケージは，3条項BSDライセンスの下，再頒布および使用が許可されます
 * このパッケージのコマンドとコードは下記のスライド（CC-BY-SA 4.0 by Ryuichi Ueda）のものを，本人の許可を得て自身の著作としたものです．
-	*(https://github.com/ryuichiueda/my_slides/tree/master/robosys_2022)
+	* (https://github.com/ryuichiueda/my_slides/tree/master/robosys_2022)
 * ©　2023 Atsuya Morita
 

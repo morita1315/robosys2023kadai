@@ -13,13 +13,13 @@
 ## 使用方法
 以下のように使用します
 $ echo -e "5/n10/n15/n20" | ./plus
-50
+/n50
 
 $ seq 5 | ./plus
-15
+\n15
 
 $ echo "あ"　| ./plus
-Invalid input: not a number 
+/nInvalid input: not a number 
 
 ## テスト
 test.bashスクリプトを使用して、plusスクリプトの機能をテストできる。このスクリプトは、正常な入力と異常な入力の両方をplusスクリプトに送信し、期待される出力と終了コードを確認する

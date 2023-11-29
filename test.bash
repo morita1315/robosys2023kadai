@@ -9,6 +9,9 @@ ng () {
 
 res=0
 
+out=$(echo -e "5\n10\n15\n20" | ./plus)
+[ "${out}" = 50 ] || ng ${LINENO}
+
 out=$(seq 5 | ./plus)
 [ "${out}" = 15 ] || ng ${LINENO}
 

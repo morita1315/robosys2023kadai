@@ -16,17 +16,22 @@
 ## 使用方法
 以下のように使用します
 
-$ echo -e "5/n10/n15/n20" | ./plus
-
+```bash
+$ echo -e "5\n10\n15\n20" | ./plus
 50
+```
 
+
+```bash
 $ seq 5 | ./plus
-
 15
+```
 
+
+```bash
 $ echo "あ"　| ./plus
-
 Invalid input: not a number 
+```
 
 ## 必要なソフトウェア
 * python　

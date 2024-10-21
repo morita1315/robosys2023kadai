@@ -1,5 +1,5 @@
 # robosys2023kadai
-ロボットシステムの課題で使用する
+robosys2023の課題
 
 ## plusコマンド
 
